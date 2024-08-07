@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Dilan Sathruwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=█🌟𝐇𝐞𝐥𝐥𝐨+𝐀𝐧𝐝+𝐖𝐞𝐥𝐜𝐨𝐦𝐞🌟█;This+is+the+Profile+of+a+ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝+𝕀𝕕𝕚𝕠𝕥,;PЯӨFΣƧƧIӨПΛᄂ+PΉӨƬӨƧΉӨP+ΛЯƬIƧƬ,;Cσɱρυƚҽɾ+Mҽƈԋαɳιƈ,;Ⓟⓡⓞⓖⓡⓐⓜⓜⓔⓡ,;𝑳𝒐𝒗𝒆+𝒕𝒐+𝒍𝒆𝒂𝒓𝒏+𝒏𝒆𝒘+𝒔𝒕𝒖𝒇𝒇𝒔...">
@@ -15,8 +13,9 @@
 
 ## 🐍 A Snake Eating my Contributions Graph, Don't Wory About it
 	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 <br>
@@ -58,15 +57,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 <br>
 
-<p align="center">
-	<a href="https://github.com/Dilan-Sathruwan">
- 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilan-Sathruwan&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-	</a>
-	<br><br>
-	<a href="https://github.com/Dilan-Sathruwan">
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Sathruwan&theme=tokyonight" />
- 	 </a>
-</p>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><a href="https://github.com/Dilan-Sathruwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Sathruwan&theme=tokyonight" /></a></p>
+<p align="center" ><a href="https://github.com/Dilan-Sathruwan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilan-Sathruwan&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Dilan-Sathruwan&theme=tokyonight"></p>
 
 <br/>
 <br/>
@@ -109,8 +104,14 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Dilan-Sathruwan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-</br></br>
-	
+</br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Thanks+For+Coming;Have+A+Nice+Day...;Bye👋)](https://git.io/typing-svg)
+
+
+<br></br>
+
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
