@@ -11,7 +11,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 A Snake Eating my Contributions Graph, Don't Wory About it
+## This is My Pet Snake "Sumane" 🐍. It Always Eat my Contributions Graph 😒, Don't Wory About it 🙂
 	
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
@@ -49,16 +49,57 @@
 	🔰𝗔𝗱𝗼𝗯𝗲 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗼𝗿🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗟𝗶𝗴𝗵𝘁𝗿𝗼𝗼𝗺🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗔𝘂𝗱𝗶𝘁𝗶𝗼𝗻🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝗲𝗿𝗲 𝗣𝗿𝗼🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗔𝗳𝘁𝗲𝗿 𝗘𝗳𝗳𝗲𝗰𝘁𝘀🔰 , 🔰𝗕𝗹𝗲𝗻𝗱𝗲𝗿🔰 , 🔰𝗖𝗮𝗽 𝗖𝘂𝘁🔰 , 🔰𝗗𝗮𝗩𝗶𝗻𝗰𝗶 𝗥𝗲𝘀𝗼𝗹𝘃𝗲🔰 , 🔰𝗙𝗹 𝗦𝘁𝘂𝗱𝗶𝗼🔰 , 🔰𝗨𝗻𝗶𝘁𝘆 𝗚𝗮𝗺𝗲 𝗘𝗻𝗴𝗶𝗻𝗲🔰 , 🔰𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲🔰
 </p>
 
+<br><br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Work With
+
+<p align="center";>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/AfterEffects.svg" width = 50px alt="AfterEffects"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Audition.svg" width = 50px alt="Audition"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" width = 50px alt="Photoshop"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" width = 50px alt="Premiere"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" width = 50px alt="Illustrator"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" width = 50px alt="VSCode"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width = 50px alt="VisualStudio"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Unity-Dark.svg" width = 50px alt="Unity"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" width = 50px alt="UnrealEngine"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Blender-Dark.svg" width = 50px alt="Blender"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width = 50px alt="AndroidStudio"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Powershell-Dark.svg" width = 50px alt="Powershell"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" width = 50px alt="Figma"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width = 50px alt="Cloudflare"></picture>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+
+<p align="center";>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width = 50px alt="HTML"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width = 50px alt="CSS"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width = 50px alt="Bootstrap"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width = 50px alt="JavaScript"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/JQuery.svg" width = 50px alt="JQuery"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width = 50px alt="Java"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width = 50px alt="MySQL"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" width = 50px alt="PHP"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" width = 50px alt="Python"></picture>
+<picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width = 50px alt="CS"></picture>
+</p>
+
 <br>
-
-
 
 <!--My Github Stats-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 <br>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dilan-Sathruwan}/count.svg" alt="visitor badge"/></p>
 <p align="center"><a href="https://github.com/Dilan-Sathruwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Sathruwan&theme=tokyonight" /></a></p>
 <p align="center" ><a href="https://github.com/Dilan-Sathruwan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilan-Sathruwan&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Dilan-Sathruwan&theme=tokyonight"></p>
@@ -73,9 +114,9 @@
 <br>
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
+<!--<a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
+</a>-->
 
 <br>
 
@@ -101,8 +142,6 @@
 
 <br>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dilan-Sathruwan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 </br>
 
@@ -112,8 +151,12 @@
 
 <br></br>
 
+
+
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<p align="right" > Created by 💜 𝓛𝓸𝓴𝓾𝓾𝓾</p>
