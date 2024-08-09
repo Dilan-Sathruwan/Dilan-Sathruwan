@@ -11,8 +11,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## This is My Pet Snake "Sumane" 🐍. It Always Eat my Contributions Graph 😒, Don't Wory About it 🙂
-	
+<h2 align="center">
+	This is My Pet Snake "Sumane" 🐍. It Always Eat my Contributions Graph 😒, Don't Wory About it 🙂
+</h2>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
@@ -92,7 +94,9 @@
 <picture><img src = "https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width = 50px alt="CS"></picture>
 </p>
 
-<br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--My Github Stats-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
