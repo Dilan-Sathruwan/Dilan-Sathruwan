@@ -116,7 +116,8 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Dilan-Sathruwan&theme=react-dark&hide_border=true&area=true)
 
 <br>
-### My Projects ✨:
+
+## My Projects ✨:
   
 <!--<a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
