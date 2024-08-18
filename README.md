@@ -119,8 +119,8 @@
 
 ## My Projects ✨:
   
-<<a href="https://github.com/Dilan-Sathruwan/Project_Grapher_Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/Dilan-Sathruwan/Project_Grapher_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dilan-Sathruwan&repo=Project_Grapher_Website&theme=tokyonight" />
 </a>
 
 <br>
