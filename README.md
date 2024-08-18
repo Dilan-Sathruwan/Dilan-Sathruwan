@@ -123,6 +123,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dilan-Sathruwan&repo=Project_Grapher_Website&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Dilan-Sathruwan/Project_SL_Routing_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dilan-Sathruwan&repo=Project_SL_Routing_Website&theme=tokyonight" />
+</a>
+
+
 <br>
 
 
