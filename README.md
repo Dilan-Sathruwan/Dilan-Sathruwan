@@ -23,23 +23,32 @@
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
 
+<table align="center">
+<tr border="none">
+<td width="70%" align="left"> 
+	<ul>
+<li>- 😁: 𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 `𝗖𝗿𝗮𝘇𝘆 B𝗼𝘆`.</li>
+<li>- 🎓: 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗠𝘆 `𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮` 𝗶𝗻 `𝗦𝗟𝗜𝗔𝗧𝗘`.</li>
+<li>- 🤖: 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 `𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲` 𝗮𝗻𝗱 `𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴`.</li>
+<li>- 🎨: 𝗜’𝗺 `𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 𝗔𝗿𝘁𝗶𝘀𝘁`.</li>
+<li>- 🎮: 𝗔𝗹𝘀𝗼 𝗜'𝗺 𝗮 `𝗚𝗮𝗺𝗲𝗿`.</li>
+<li>- 🤔: 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴!</li>
+<li>- 😄  𝗣𝗿𝗼𝗻𝗼𝘂𝗻𝘀: 𝓛𝓸𝓴𝓾𝓾𝓾</li>
+<li>- 😎  𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝗜 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲𝘀𝗲 𝘁𝗼𝗼𝗹𝘀.👇</li>
+	</ul>
+</td>
+  
 <td width="50%" align="center">
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side GIF">
+   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side GIF">
 </td>
 
-<ul>
-  <li>😁: I’m just a <code>Crazy Boy</code>.</li>
-  <li>🎓: I’m currently working on my <code>Higher National Diploma</code> in <code>SLIATE</code>.</li>
-  <li>🤖: I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.</li>
-  <li>🎨: I’m a <code>Professional Photoshop Artist</code>.</li>
-  <li>🎮: Also, I’m a <code>Gamer</code>.</li>
-  <li>🤔: I’m looking for help with anything I am currently learning!</li>
-  <li>😄 Pronouns: <b>Loku</b></li>
-  <li>😎 Fun fact: I like to play with these tools 👇</li>
-</ul>
+</tr>
+</table>
 
-<p align="center">
-  🔰Adobe Photoshop🔰, 🔰Adobe Illustrator🔰, 🔰Adobe Lightroom🔰, 🔰Adobe Audition🔰, 🔰Adobe Premiere Pro🔰, 🔰Adobe After Effects🔰, 🔰Blender🔰, 🔰Cap Cut🔰, 🔰DaVinci Resolve🔰, 🔰FL Studio🔰, 🔰Unity Game Engine🔰, 🔰Unreal Engine🔰
+
+
+<p align="center";>
+	🔰𝗔𝗱𝗼𝗯𝗲 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗼𝗿🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗟𝗶𝗴𝗵𝘁𝗿𝗼𝗼𝗺🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗔𝘂𝗱𝗶𝘁𝗶𝗼𝗻🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝗲𝗿𝗲 𝗣𝗿𝗼🔰 , 🔰𝗔𝗱𝗼𝗯𝗲 𝗔𝗳𝘁𝗲𝗿 𝗘𝗳𝗳𝗲𝗰𝘁𝘀🔰 , 🔰𝗕𝗹𝗲𝗻𝗱𝗲𝗿🔰 , 🔰𝗖𝗮𝗽 𝗖𝘂𝘁🔰 , 🔰𝗗𝗮𝗩𝗶𝗻𝗰𝗶 𝗥𝗲𝘀𝗼𝗹𝘃𝗲🔰 , 🔰𝗙𝗹 𝗦𝘁𝘂𝗱𝗶𝗼🔰 , 🔰𝗨𝗻𝗶𝘁𝘆 𝗚𝗮𝗺𝗲 𝗘𝗻𝗴𝗶𝗻𝗲🔰 , 🔰𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲🔰
 </p>
 
 <!-- Horizontal Divider -->
