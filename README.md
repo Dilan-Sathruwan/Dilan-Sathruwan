@@ -21,30 +21,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <!-- About Me Section -->
-<h2 align="center">About Me</h2>
+<p align="center";>	
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+  <br>
+  <h2 align="center";>About Me</h2>
+</p>
 
-<table align="center">
-<tr border="none">
-<td width="70%" align="left"> 
-	<ul>
-<li>- 😁: 𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 `𝗖𝗿𝗮𝘇𝘆 B𝗼𝘆`.</li>
-<li>- 🎓: 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗠𝘆 `𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮` 𝗶𝗻 `𝗦𝗟𝗜𝗔𝗧𝗘`.</li>
-<li>- 🤖: 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 `𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲` 𝗮𝗻𝗱 `𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴`.</li>
-<li>- 🎨: 𝗜’𝗺 `𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 𝗔𝗿𝘁𝗶𝘀𝘁`.</li>
-<li>- 🎮: 𝗔𝗹𝘀𝗼 𝗜'𝗺 𝗮 `𝗚𝗮𝗺𝗲𝗿`.</li>
-<li>- 🤔: 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴!</li>
-<li>- 😄  𝗣𝗿𝗼𝗻𝗼𝘂𝗻𝘀: 𝓛𝓸𝓴𝓾𝓾𝓾</li>
-<li>- 😎  𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝗜 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲𝘀𝗲 𝘁𝗼𝗼𝗹𝘀.👇</li>
-	</ul>
-</td>
-  
 <td width="50%" align="center">
-   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side GIF">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </td>
+<br><br>
 
-</tr>
-</table>
-
+- 😁: 𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 `𝗖𝗿𝗮𝘇𝘆 B𝗼𝘆`.
+- 🎓: 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗠𝘆 `𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮` 𝗶𝗻 `𝗦𝗟𝗜𝗔𝗧𝗘`.
+- 🤖: 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 `𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲` 𝗮𝗻𝗱 `𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴`.
+- 🎨: 𝗜’𝗺 `𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 𝗔𝗿𝘁𝗶𝘀𝘁`.
+- 🎮: 𝗔𝗹𝘀𝗼 𝗜'𝗺 𝗮 `𝗚𝗮𝗺𝗲𝗿`.
+- 🤔: 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴!
+- 😄  𝗣𝗿𝗼𝗻𝗼𝘂𝗻𝘀: 𝓛𝓸𝓴𝓾𝓾𝓾
+- 😎  𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝗜 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲𝘀𝗲 𝘁𝗼𝗼𝗹𝘀.👇
 
 
 <p align="center";>
