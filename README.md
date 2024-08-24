@@ -13,7 +13,6 @@
 	This is My Pet Snake "Sumane" 🐍. It Always Eats my Contributions Graph 😒, Don't Worry About it 🙂
 </h2>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 </p>
