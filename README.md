@@ -105,7 +105,7 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Dilan-Sathruwan}/count.svg" alt="visitor badge"/></p>
-<p align="center"><a href="https://github.com/Dilan-Sathruwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight" /></a></p>
+<p align="center"><a href="https://github.com/Dilan-Sathruwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Sathruwan&theme=tokyonight" /></a></p>
 <p align="center" ><a href="https://github.com/Dilan-Sathruwan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilan-Sathruwan&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Dilan-Sathruwan&theme=tokyonight"></p>
 
