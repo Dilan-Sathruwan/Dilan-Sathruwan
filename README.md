@@ -52,20 +52,17 @@
 ## 🛠️ Work With
 
 <p align="center">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AfterEffects.svg" width="50px" alt="AfterEffects">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Audition.svg" width="50px" alt="Audition">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" width="50px" alt="Photoshop">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" width="50px" alt="Premiere">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" width="50px" alt="Illustrator">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50px" alt="VSCode">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="50px" alt="VisualStudio">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Unity-Dark.svg" width="50px" alt="Unity">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/UnrealEngine.svg" width="50px" alt="UnrealEngine">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Blender-Dark.svg" width="50px" alt="Blender">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50px" alt="AndroidStudio">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Powershell-Dark.svg" width="50px" alt="Powershell">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" width="50px" alt="Figma">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="50px" alt="Cloudflare">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/After Effects.svg" width="50px" alt="After Effects">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Audition.svg" width="50px" alt="Audition">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Photoshop.svg" width="50px" alt="Photoshop">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Premiere.svg" width="50px" alt="Premiere">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Illustrator.svg" width="50px" alt="Illustrator">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Figma-Dark.svg" width="50px" alt="Figma">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/VSCode-Dark.svg" width="50px" alt="VSCode">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/VisualStudio-Dark.svg" width="50px" alt="VisualStudio">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Unity-Dark.svg" width="50px" alt="Unity">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/UnrealEngine.svg" width="50px" alt="UnrealEngine">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Blender-Dark.svg" width="50px" alt="Blender">
 </p>
 
 <!-- Horizontal Divider -->
@@ -74,14 +71,14 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px" alt="Programming Languages"> Programming languages
 
 <p align="center">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="50px" alt="HTML">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="50px" alt="CSS">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="50px" alt="Bootstrap">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="50px" alt="JavaScript">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JQuery.svg" width="50px" alt="JQuery">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="50px" alt="Java">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="50px" alt="C++">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" width="50px" alt="Python">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/HTML.svg" width="50px" alt="HTML">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/CSS.svg" width="50px" alt="CSS">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/JavaScript.svg" width="50px" alt="JavaScript">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Bootstrap.svg" width="50px" alt="Bootstrap">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/TailwindCSS-Dark.svg" width="50px" alt="TailwindCSS">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Java-Light.svg" width="50px" alt="Java">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Csharp.svg" width="50px" alt="C#">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Python-Dark.svg" width="50px" alt="Python">
 </p>
 
 <!-- Horizontal Divider -->
@@ -118,19 +115,6 @@
 
 <br>
 
-## My Projects ✨:
-  
-<a href="https://github.com/Dilan-Sathruwan/Project_Grapher_Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dilan-Sathruwan&repo=Project_Grapher_Website&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Dilan-Sathruwan/Project_SL_Routing_Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dilan-Sathruwan&repo=Project_SL_Routing_Website&theme=tokyonight" />
-</a>
-
-
-<br>
-
 
 <!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
@@ -145,11 +129,11 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/facebook/facebook.svg" alt="Facebook" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="discord" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://github.com/Dilan-Sathruwan" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50" width="50" /></a>
+<a href="https://www.instagram.com/lokuuu_creations/" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/1Atj8Ke5du/" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Facebook.svg" alt="Facebook" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Discord.svg" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/dilan-sathruwan-1b6174354/" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
 
 </p>
 
