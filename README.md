@@ -52,7 +52,7 @@
 ## 🛠️ Work With
 
 <p align="center">
-  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/After Effects.svg" width="50px" alt="After Effects">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/After%20Effects.svg" width="50px" alt="After Effects">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Audition.svg" width="50px" alt="Audition">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Photoshop.svg" width="50px" alt="Photoshop">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Premiere.svg" width="50px" alt="Premiere">
@@ -63,6 +63,19 @@
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Unity-Dark.svg" width="50px" alt="Unity">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/UnrealEngine.svg" width="50px" alt="UnrealEngine">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Blender-Dark.svg" width="50px" alt="Blender">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/After%20Effects-20232A?style=for-the-badge" alt="After Effects Badge"/>
+  <img src="https://img.shields.io/badge/Audition-20232A?style=for-the-badge" alt="Audition Badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge" alt="Photoshop Badge"/>
+  <img src="https://img.shields.io/badge/Premiere-20232A?style=for-the-badge" alt="Premiere Badge"/>
+  <img src="https://img.shields.io/badge/Illustrator-20232A?style=for-the-badge" alt="Illustrator Badge"/>
+  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge" alt="Figma Badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge" alt="VSCode Badge"/>
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge" alt="Unity Badge"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-20232A?style=for-the-badge" alt="Unreal Badge"/>
+  <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge" alt="Blender Badge"/>
 </p>
 
 <!-- Horizontal Divider -->
@@ -76,9 +89,34 @@
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/JavaScript.svg" width="50px" alt="JavaScript">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Bootstrap.svg" width="50px" alt="Bootstrap">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/TailwindCSS-Dark.svg" width="50px" alt="TailwindCSS">
-  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Java-Light.svg" width="50px" alt="Java">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Java-Dark.svg" width="50px" alt="Java">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Csharp.svg" width="50px" alt="C#">
   <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Python-Dark.svg" width="50px" alt="Python">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px" alt="PostgreSQL">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/PHP-Dark.svg" width="50px" alt="PHP">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/NodeJS-Dark.svg" width="50px" alt="NodeJS">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/MySQL-Dark.svg" width="50px" alt="MySQL">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Laravel-Dark.svg" width="50px" alt="Laravel">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/NextJS-Dark.svg" width="50px" alt="NextJS">
+  <img src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/React-Dark.svg" width="50px" alt="React">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" alt="PHP"/>
+  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge" alt="NextJS"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" alt="React"/>
 </p>
 
 <!-- Horizontal Divider -->
@@ -88,23 +126,34 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dilan-Sathruwan&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15">
+    <img src="https://github-trophies.vercel.app/?username=Dilan-Sathruwan&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15">
   </a>
 </p>
 
 <!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-
 <!--My Github Stats-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
-<br>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dilan-Sathruwan}/count.svg" alt="visitor badge"/></p>
-<p align="center"><a href="https://github.com/Dilan-Sathruwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilan-Sathruwan&theme=tokyonight" /></a></p>
-<p align="center" ><a href="https://github.com/Dilan-Sathruwan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilan-Sathruwan&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Dilan-Sathruwan&theme=tokyonight"></p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dilan-Sathruwan&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan-Sathruwan&theme=tokyonight" alt="Profile Summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan-Sathruwan&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan-Sathruwan&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilan-Sathruwan&theme=tokyonight" alt="Stats Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilan-Sathruwan&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</p>
 
 <br/>
 <br/>
@@ -134,11 +183,31 @@
 <a href="https://www.facebook.com/share/1Atj8Ke5du/" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Facebook.svg" alt="Facebook" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/Discord.svg" alt="discord" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/dilan-sathruwan-1b6174354/" target="blank"><img align="center" src="https://github.com/Dilan-Sathruwan/Project_Icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Dilan-Sathruwan" target="blank"><img src="https://img.shields.io/badge/GitHub-Dilan--Sathruwan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://www.instagram.com/lokuuu_creations/" target="blank"><img src="https://img.shields.io/badge/Instagram-lokuuu__creations-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.facebook.com/share/1Atj8Ke5du/" target="blank"><img src="https://img.shields.io/badge/Facebook-Dilan%20Sathruwan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://www.linkedin.com/in/dilan-sathruwan-1b6174354/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Dilan%20Sathruwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://lokuuusnetcard.netlify.app" target="blank"><img src="https://img.shields.io/badge/Website-Lokuuu's_Netcard-04BF55?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge"/></a>
 </p>
 
 <br>
 
+
+</br>
+
+<!-- Support Section -->
+<h3 align="center">💚 Support My Work</h3>
+<p align="center">
+  If you like my projects, feel free to ⭐ my repos and follow me!
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=for-the-badge" alt="Star"/>
+  <img src="https://img.shields.io/badge/🍴-Fork%20My%20Projects-blue?style=for-the-badge" alt="Fork"/>
+  <img src="https://img.shields.io/badge/👀-Watch%20My%20Profile-green?style=for-the-badge" alt="Watch"/>
+</p>
 
 </br>
 
